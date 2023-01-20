@@ -1,0 +1,27 @@
+2023-17-17 00:01:494 INFO  HomePage :29 - Clicking on accept cookies 
+2023-20-17 00:01:817 INFO  HomePage :29 - Clicking on accept cookies 
+2023-21-17 00:01:612 INFO  HomePage :29 - Clicking on accept cookies 
+2023-21-17 00:01:713 INFO  HomePage :33 - Clicking on free games 
+2023-22-17 00:01:247 INFO  HomePage :29 - Clicking on accept cookies 
+2023-22-17 00:01:369 INFO  HomePage :33 - Clicking on free games 
+2023-24-17 00:01:595 INFO  HomePage :29 - Clicking on accept cookies 
+2023-24-17 00:01:693 INFO  HomePage :33 - Clicking on free games 
+2023-25-17 00:01:600 INFO  HomePage :29 - Clicking on accept cookies 
+2023-30-17 00:01:800 INFO  HomePage :28 - Clicking on accept cookies 
+2023-32-17 00:01:953 INFO  HomePage :28 - Clicking on accept cookies 
+2023-32-17 00:01:52 INFO  HomePage :32 - Clicking on free games 
+2023-06-20 21:01:116 INFO  HomePage :28 - Clicking on accept cookies 
+2023-06-20 21:01:298 INFO  HomePage :32 - Clicking on free games tab[[ChromeDriver: chrome on WINDOWS (80b44dfa1ea9cd2fa258049d4f6eb56c)] -> xpath: //span[contains(text(),'Free Games')]]
+2023-06-20 21:01:541 INFO  FreeGamesPage :21 - Getting text from : [[ChromeDriver: chrome on WINDOWS (80b44dfa1ea9cd2fa258049d4f6eb56c)] -> xpath: //h1[contains(text(),'Experience a Selection of Free Games')]]
+2023-08-20 21:01:569 INFO  HomePage :28 - Clicking on accept cookies 
+2023-08-20 21:01:741 INFO  HomePage :32 - Clicking on free games tab[[ChromeDriver: chrome on WINDOWS (7a39458dcaf8ebd0433ac440001d97d3)] -> xpath: //span[contains(text(),'Free Games')]]
+2023-08-20 21:01:997 INFO  FreeGamesPage :21 - Getting text from : [[ChromeDriver: chrome on WINDOWS (7a39458dcaf8ebd0433ac440001d97d3)] -> xpath: //h1[contains(text(),'Experience a Selection of Free Games')]]
+2023-11-20 21:01:46 INFO  HomePage :28 - Clicking on accept cookies 
+2023-11-20 21:01:218 INFO  HomePage :32 - Clicking on free games tab[[ChromeDriver: chrome on WINDOWS (5479c3a63c01027517540bda9d940b07)] -> xpath: //span[contains(text(),'Free Games')]]
+2023-11-20 21:01:447 INFO  FreeGamesPage :21 - Getting text from : [[ChromeDriver: chrome on WINDOWS (5479c3a63c01027517540bda9d940b07)] -> xpath: //h1[contains(text(),'Experience a Selection of Free Games')]]
+2023-12-20 21:01:800 INFO  HomePage :28 - Clicking on accept cookies 
+2023-12-20 21:01:995 INFO  HomePage :32 - Clicking on free games tab[[ChromeDriver: chrome on WINDOWS (cb5e2bcc57be6b0c7171c434a3683634)] -> xpath: //span[contains(text(),'Free Games')]]
+2023-12-20 21:01:222 INFO  FreeGamesPage :21 - Getting text from : [[ChromeDriver: chrome on WINDOWS (cb5e2bcc57be6b0c7171c434a3683634)] -> xpath: //h1[contains(text(),'Experience a Selection of Free Games')]]
+2023-33-20 21:01:959 INFO  HomePage :28 - Clicking on accept cookies 
+2023-33-20 21:01:199 INFO  HomePage :32 - Clicking on free games tab[[ChromeDriver: chrome on WINDOWS (60d0213de0c4a7d332d685ccd8ad2663)] -> xpath: //span[contains(text(),'Free Games')]]
+2023-33-20 21:01:736 INFO  FreeGamesPage :21 - Getting text from : [[ChromeDriver: chrome on WINDOWS (60d0213de0c4a7d332d685ccd8ad2663)] -> xpath: //h1[contains(text(),'Experience a Selection of Free Games')]]
